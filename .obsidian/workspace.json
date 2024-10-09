@@ -1,0 +1,169 @@
+{
+  "main": {
+    "id": "37d8c34a490fca36",
+    "type": "split",
+    "children": [
+      {
+        "id": "2111a5d3ff76de67",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "63fdd6541e4360bb",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Study Guides/Midterm Topics.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "4e5a9b54a8db8b9f",
+    "type": "split",
+    "children": [
+      {
+        "id": "b1f58912669b8606",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "7937d855a3536eb3",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "dba9bb6162a5dc30",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "00abb94a52b646a7",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "c8f3d352271a380e",
+    "type": "split",
+    "children": [
+      {
+        "id": "39d0759cf7b31dcf",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "819295deab44ab9a",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Study Guides/Midterm Topics.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "bdccc3e3e3519e91",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Study Guides/Midterm Topics.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "24b785e5a8771774",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "7d2a01ac28c7ae08",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Study Guides/Midterm Topics.md"
+              }
+            }
+          },
+          {
+            "id": "d6f13b3b01911f30",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 4
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "obsidian-git:Open Git source control": false
+    }
+  },
+  "active": "d6f13b3b01911f30",
+  "lastOpenFiles": [
+    "Week 1/Untitled.md",
+    "Study Guides/Midterm Topics.md",
+    "Week 3",
+    "Study Guides",
+    "Week 1.md",
+    "Week 2",
+    "Week 1",
+    "Images"
+  ]
+}
