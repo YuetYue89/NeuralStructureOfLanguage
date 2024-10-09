@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Week 1/Week 1 - Lecture 1.md",
+                "file": "Study Guides/Midterm Topics.md",
                 "mode": "source",
                 "source": false
               }
@@ -69,7 +69,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "c8f3d352271a380e",
@@ -85,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Week 1/Week 1 - Lecture 1.md",
+                "file": "Study Guides/Midterm Topics.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Week 1/Week 1 - Lecture 1.md",
+                "file": "Study Guides/Midterm Topics.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Week 1/Week 1 - Lecture 1.md"
+                "file": "Study Guides/Midterm Topics.md"
               }
             }
           },
@@ -155,10 +156,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "63fdd6541e4360bb",
+  "active": "d6f13b3b01911f30",
   "lastOpenFiles": [
-    "Study Guides/Midterm Topics.md",
     "Week 1/Week 1 - Lecture 1.md",
+    "Week 1/Untitled.md",
+    "Study Guides/Midterm Topics.md",
     "Week 3",
     "Study Guides",
     "Week 1.md",
