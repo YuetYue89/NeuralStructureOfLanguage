@@ -44,8 +44,21 @@
               "type": "graph",
               "state": {}
             }
+          },
+          {
+            "id": "0678d0c1320ae8ce",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "conflict-files-obsidian-git.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -111,6 +124,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "conflict-files-obsidian-git.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,6 +141,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "conflict-files-obsidian-git.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -148,7 +163,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "conflict-files-obsidian-git.md"
+              }
             }
           },
           {
@@ -177,8 +194,9 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "579888e345fae5b9",
+  "active": "0678d0c1320ae8ce",
   "lastOpenFiles": [
+    "conflict-files-obsidian-git.md",
     "Week 1/what is language.md",
     "Week 1/Language as strings.md",
     "Week 1/Week 1 - Lecture 1.md",
