@@ -69,7 +69,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "c8f3d352271a380e",
@@ -155,7 +156,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "d6f13b3b01911f30",
+  "active": "63fdd6541e4360bb",
   "lastOpenFiles": [
     "Week 1/Untitled.md",
     "Study Guides/Midterm Topics.md",

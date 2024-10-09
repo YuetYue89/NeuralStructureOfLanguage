@@ -40,3 +40,8 @@
 	- Wernicke-Lichtheim-Geschwindt Model
 		- Criticisms of the Model
 
+## Module 2: Phonology
+
+- ### Sounds in the Brain
+	- ###### Stages of Speech Perceptio
+
