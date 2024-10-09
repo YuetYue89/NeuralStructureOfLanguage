@@ -2,7 +2,7 @@
 ## Module 1: Overview
 
 ### Overview
-
+[[Week 1 - Lecture 1]]
 - ###### Terms 
 	- Mental Grammar
 	- Lexicon

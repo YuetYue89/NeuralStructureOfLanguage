@@ -10,3 +10,8 @@
 		- \** Cat mat slept on the the
 - What words and sentences mean.
 
+- What is the definition of language?
+	- a discrete combinatorial system with an infinite generative capacity.![[language-overview.png]]
+
+
+
