@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Study Guides/Midterm Topics.md",
+                "file": "Week 1/Week 1 - Lecture 1.md",
                 "mode": "source",
                 "source": false
               }
@@ -69,8 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "c8f3d352271a380e",
@@ -86,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Study Guides/Midterm Topics.md",
+                "file": "Week 1/Week 1 - Lecture 1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Study Guides/Midterm Topics.md",
+                "file": "Week 1/Week 1 - Lecture 1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Study Guides/Midterm Topics.md"
+                "file": "Week 1/Week 1 - Lecture 1.md"
               }
             }
           },
@@ -158,8 +157,8 @@
   },
   "active": "63fdd6541e4360bb",
   "lastOpenFiles": [
-    "Week 1/Untitled.md",
     "Study Guides/Midterm Topics.md",
+    "Week 1/Week 1 - Lecture 1.md",
     "Week 3",
     "Study Guides",
     "Week 1.md",
