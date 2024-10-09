@@ -13,7 +13,7 @@
 
 - ###### Language as Structure
 	- Discrete Structural Methods 
-	- Generative Grammer
+	- Generative Grammar
 
 - ###### Levels of Analysis
 	- Computational 
