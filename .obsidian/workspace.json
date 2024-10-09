@@ -30,9 +30,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "d77e6f5412d0566f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "conflict-files-obsidian-git.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -99,7 +111,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Week 2/Sounds in the Brain.md",
+                "file": "conflict-files-obsidian-git.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +128,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Week 2/Sounds in the Brain.md",
+                "file": "conflict-files-obsidian-git.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -139,7 +151,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Week 2/Sounds in the Brain.md"
+                "file": "conflict-files-obsidian-git.md"
               }
             }
           },
@@ -169,13 +181,21 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "d6f13b3b01911f30",
+  "active": "d77e6f5412d0566f",
   "lastOpenFiles": [
-    "Study Guides/Midterm Topics.md",
+    "Images/language-overview.png",
+    "Images/Markov model of language.png",
+    "Week 1/representations.md",
+    "Week 1/pump the breaks.md",
+    "Week 1/mental grammar.md",
+    "Week 1/language and the brain.md",
+    "Week 1/Language as structure.md",
+    "Week 1/Generative Grammar.md",
     "Week 2/Sounds in the Brain.md",
+    "conflict-files-obsidian-git.md",
+    "Study Guides/Midterm Topics.md",
     "Week 1/Week 1 - Lecture 1.md",
     "Week 1/what is language.md",
-    "conflict-files-obsidian-git.md",
     "Week 1/Language as strings.md",
     "Week 1/Untitled.md",
     "Week 3",

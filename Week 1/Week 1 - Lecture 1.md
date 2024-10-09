@@ -7,7 +7,8 @@
 2. How language works
 	- [[What is language]]?
 	- [[Language as strings]]
-	- Language as structure
+	- [[Language as structure]]
+		- [[language and the brain]]
 	- Minimalism
 
 ### What is this class about?
